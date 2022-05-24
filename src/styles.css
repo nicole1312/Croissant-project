@@ -1,6 +1,6 @@
 :root {
   --primary-color: #f6e2b9;
-  --secondary-color: #f6dbaa;
+  --secondary-color: chocolate;
 }
 
 body {
@@ -17,9 +17,9 @@ p {
   background: var(--primary-color);
   text-decoration: none;
 }
-a:visited {
+a {
   color: green;
 }
 a:hover {
-  color: chocolate;
+  color: var(--secondary-color);
 }
