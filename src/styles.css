@@ -17,6 +17,7 @@ p {
   background: var(--primary-color);
   text-decoration: none;
 }
+
 a {
   color: green;
 }
